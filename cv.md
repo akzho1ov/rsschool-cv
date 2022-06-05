@@ -23,7 +23,7 @@ alert( result );
 * RS APP
 * HTML academy
 * Own online courses
- ## Leanguages
- * English C1
- * Russion C1
- * Kyrgyz Native
+## Leanguages
+* English C1
+* Russion C1
+* Kyrgyz Native
